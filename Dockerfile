@@ -1,4 +1,4 @@
-FROM docker-registry.hypoport.local:5000/ubuntu:14.04
+FROM ubuntu:14.04
 MAINTAINER Tobias Gesellchen <tobias@gesellix.de>
 
 ENV DEBIAN_FRONTEND noninteractive
